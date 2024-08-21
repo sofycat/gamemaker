@@ -12,27 +12,31 @@
 </p>
 
 <p align="center">
-	<img src="assets/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/latte.webp"/>
+WIP
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/frappe.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
 </details>
 <details>
+WIP
 <summary>🌺 Macchiato</summary>
-<img src="assets/macchiato.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
 </details>
 <details>
+WIP
 <summary>🌿 Mocha</summary>
-<img src="assets/mocha.webp"/>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
 </details>
+
 
 ## Usage
 
@@ -40,6 +44,12 @@
 2. Unzip the download file.
 3. Move it to <code>C:\ProgramData\GameMakerStudio2\Skins</code> (or your OS alteritive).
 4. File -> Preferences -> General Settings -> IDE skin -> Catppuccin -> Apply. If the skin does not show up in this list, try restarting GMS2,
+
+<!-- The FAQ section is optional. Remove if needed.-->
+## 🙋 FAQ
+
+- Q: **_"What font is used in the screenshots"_**\
+  A: [Monogram](https://datagoblin.itch.io/monogram)
 
 ## 💝 Thanks to
 
