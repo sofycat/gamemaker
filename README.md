@@ -20,7 +20,7 @@
 <details>
 <summary>🌻 Latte</summary>
 WIP
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
+<img src="https://raw.githubusercontent.com/sofycat/gamemaker/main/assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
