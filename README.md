@@ -24,7 +24,7 @@ WIP
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/sofycat/gamemaker/main/assets/Latte.webp"/>
+<img src="https://raw.githubusercontent.com/sofycat/gamemaker/main/assets/Frappe.webp"/>
 </details>
 <details>
 WIP
